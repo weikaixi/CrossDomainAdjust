@@ -1,0 +1,4 @@
+bibentry(bibtype = "Manual", title = "CrossDomainAdjust: Trainable Feature Encoding and Partial Cross-Domain Adjustment",
+  author = person("Weikaixin", "Kong"), year = "2026",
+  note = "R package version 2.1.0",
+  url = "https://github.com/weikaixi/CrossDomainAdjust")
