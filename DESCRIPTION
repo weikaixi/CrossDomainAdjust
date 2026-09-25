@@ -1,0 +1,21 @@
+Package: CrossDomainAdjust
+Type: Package
+Title: Trainable Feature Encoding and Partial Cross-Domain Adjustment
+Version: 2.1.0
+Authors@R: person(given = "Weikaixin", family = "Kong", role = c("aut", "cre"), email = "weikaixin.kong@aalto.fi")
+Description: Fits reusable raw, within-sample rank, or binary gene-pair
+    representations, optional training-fitted feature standardization,
+    and partial cross-domain feature transformations. Binary
+    pairs are screened using training-set prevalence, with blockwise candidate
+    evaluation and optional feature caps. Domain centering and low-rank
+    projection support continuous adjustment strengths and frozen application
+    to new samples. Includes fold-local tuning and descriptive diagnostics.
+    Domain-associated variation is not assumed to be purely technical.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: stats, utils
+Suggests: survival
+URL: https://github.com/weikaixi/CrossDomainAdjust
+BugReports: https://github.com/weikaixi/CrossDomainAdjust/issues
+NeedsCompilation: no

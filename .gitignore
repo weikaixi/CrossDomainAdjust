@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rcheck/
+*.tar.gz
+.ci-library/
