@@ -31,4 +31,4 @@ for (method in c("raw", "rank", "pair", "center", "project")) {
 }
 print(do.call(rbind, out), row.names = FALSE)
 # Test data are transformed with training parameters. No test outcome enters a fit.
-# This previously inspected cohort is a worked example, not a new confirmatory test.
+
