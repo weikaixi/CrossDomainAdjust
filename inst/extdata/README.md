@@ -51,8 +51,7 @@ they are not a claim to reproduce the entire upstream raw-assay processing pipel
 
 The real examples use fixed illustrative lambda 0.4 and ridge penalty 10. They do not
 reproduce the manuscript's chosen parameters, CV curves, nine-baseline comparison or
-frozen performance table. The 60-gene panels and cohorts were established and inspected
-in earlier exploratory work. Thus they are examples of using the package on real data,
+frozen performance table. Thus they are examples of using the package on real data,
 not newly untouched external validation or proof that a particular method must win.
 
 No demographic attribute absent from the public source is inferred. Cohort-level
