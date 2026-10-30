@@ -1,0 +1,7 @@
+^\.git$
+^\.github$
+^\.gitignore$
+^README_zh\.md$
+^RELEASE_VALIDATION\.md$
+^LICENSE\.md$
+^\.ci-library$
